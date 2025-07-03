@@ -1,2 +1,0 @@
-this is for practising git insert add commit an dpush the file from local to github
-hiii!
